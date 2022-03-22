@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rodina77
-- 👀 I’m interested in web and proplem solving 
+
 
 <!---
 rodina77/rodina77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

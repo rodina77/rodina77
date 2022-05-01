@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @rodina77
+- front-end developer 
+- interested in artificial intelligence medical field 
+- 
 
 
 <!---

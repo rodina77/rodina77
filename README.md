@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently student at faculty of computers and artificial intelligence 
-- 🌱 I’m currently learning react js , i have learned html , css , js , bootstrap and jquery
+- 🌱 now i'm learning more about react js , i have learned html , css , js , bootstrap and jquery
 - i'm interested in AI medical field , websites programing
   
 to reach me 

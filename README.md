@@ -1,12 +1,16 @@
-### Hi there 👋
+# Front-End Development Tools
 
-- 🔭 I’m currently graduated from faculty of computers and artificial intelligence 
-- 🌱 now i'm learning more about react js , i have learned html , css , js , bootstrap and jquery , animations
-- i'm interested in AI medical field , websites programming
-  
-to reach me 
-  
-https://www.linkedin.com/in/rodina-ibrahim-240634222
+Here are some commonly used front-end development tools:
 
-rodinaibrahim434@gmail.com 
+| Tool        | Description                          |
+|-------------|--------------------------------------|
+| ![HTML](https://img.icons8.com/color/48/000000/html-5.png)  | [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)   |
+| ![CSS](https://img.icons8.com/color/48/000000/css3.png)    | [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)     |
+| ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
+| ![React](https://img.icons8.com/color/48/000000/react-native.png) | [React](https://reactjs.org/)          |
+| ![Vue.js](https://img.icons8.com/material-outlined/48/000000/vue-js.png)  | [Vue.js](https://vuejs.org/)            |
+| ![Angular](https://img.icons8.com/color/48/000000/angularjs.png) | [Angular](https://angular.io/)        |
+| ![Sass](https://img.icons8.com/color/48/000000/sass.png)    | [Sass](https://sass-lang.com/)        |
+| ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) | [Bootstrap](https://getbootstrap.com/) |
 
+Feel free to explore these links!
